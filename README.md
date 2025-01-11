@@ -17,7 +17,7 @@ Adoro explorar como conceitos complexos, como a física quântica e a computaç�
 ---
 
 ### 🤝 Meu Buddy
-Confira o perfil do meu buddy: loading...
+Confira o perfil do meu buddy: https://github.com/giovanna-britto
 
 ---
 
