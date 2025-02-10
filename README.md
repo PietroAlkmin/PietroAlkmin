@@ -1,6 +1,6 @@
 ### Olá!👋
 
-Eu sou o **Pietro**, tenho 17 anos, estou cursando **Engenharia da Computação** na **Inteli** e sou apaixonado por **finanças**, **automobilismo**, e tudo relacionado a **tecnologia**.
+Eu sou o **Pietro**, tenho 18 anos, estou cursando **Engenharia da Computação** na **Inteli** e sou apaixonado por **finanças**, **automobilismo**, e tudo relacionado a **tecnologia**.
 
 ---
 
