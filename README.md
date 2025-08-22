@@ -10,15 +10,6 @@ Eu sou o **Pietro**, tenho 18 anos, estou cursando **Engenharia da Computação*
 - 💻 Sempre aprendendo novas tecnologias e habilidades.
   
 ---
-
-### 🌟 Uma curiosidade sobre mim
-Adoro explorar como conceitos complexos, como a física quântica e a computação quântica, podem transformar nossa compreensão do mundo e criar novas oportunidades tecnológicas.
-
----
-
-### 🤝 Meu Buddy
-Confira o perfil do meu buddy: https://github.com/giovanna-britto
-
 ---
 
 ### 📈 Estatísticas do GitHub
