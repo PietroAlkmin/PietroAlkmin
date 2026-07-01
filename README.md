@@ -15,8 +15,6 @@
 
 I'm a 19-year-old Computer Engineering student at Inteli (São Paulo), building **Kapty**, a multi-tenant SaaS platform for fiscal and financial document management for Brazilian companies (NF-e, CT-e, NFS-e, bank reconciliation). I work across the stack — .NET/C#, React/TypeScript, and Azure — from data architecture to AI-assisted product features.
 
-I also lead the Quant area at Inteli Finance, competing in the Itaú Quant Challenge, and completed a summer internship at BTG Pactual.
-
 - Full-stack development — .NET, React/TypeScript, Azure infrastructure
 - Fiscal and financial systems integrated with Brazilian regulatory infrastructure (SEFAZ)
 - Quantitative finance — factor models, backtesting, systematic strategies
