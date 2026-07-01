@@ -37,17 +37,14 @@ I'm a 19-year-old Computer Engineering student at Inteli (São Paulo), building 
 
 <br/>
 
-## GitHub Stats
+GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PietroAlkmin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroAlkmin&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PietroAlkmin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PietroAlkmin&layout=compact&theme=dark&hide_border=true" />
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=PietroAlkmin&color=grey&style=flat-square&label=Profile+views" />
-
 <br/>
-
-## Connect
+Connect
 
 <a href="#">LinkedIn</a> · <a href="#">Email</a>
