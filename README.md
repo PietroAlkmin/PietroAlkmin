@@ -1,34 +1,55 @@
-### Olá!👋
+<h1 align="center">Pietro Alkmin</h1>
 
-Eu sou o **Pietro**, tenho 18 anos, estou cursando **Engenharia da Computação** na **Inteli** e sou apaixonado por **finanças**, **automobilismo**, e tudo relacionado a **tecnologia**.
+<p align="center">
+  Computer Engineering student at Inteli · Co-founder & Full-Stack Developer at Kapty · Quant Lead at Inteli Finance
+</p>
 
----
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 🚀 Sobre mim
-- 📈 Entusiasta em **mercados financeiros** e **investimentos**.
-- 🚗 Explorando inovações no **setor automotivo**.
-- 💻 Sempre aprendendo novas tecnologias e habilidades.
-  
----
----
+<br/>
 
-### 📈 Estatísticas do GitHub
-![Pietro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroAlkmin&show_icons=true&theme=radical)
+## About
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroAlkmin&layout=compact&theme=radical)
+I'm a 19-year-old Computer Engineering student at Inteli (São Paulo), building **Kapty**, a multi-tenant SaaS platform for fiscal and financial document management for Brazilian companies (NF-e, CT-e, NFS-e, bank reconciliation). I work across the stack — .NET/C#, React/TypeScript, and Azure — from data architecture to AI-assisted product features.
 
----
+I also lead the Quant area at Inteli Finance, competing in the Itaú Quant Challenge, and completed a summer internship at BTG Pactual.
 
-🌐 Como me encontrar
-<div align="center">
-    <a href="https://www.linkedin.com/in/pietro-alkmin-58a221311/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:pietroalkmin52@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
+- Full-stack development — .NET, React/TypeScript, Azure infrastructure
+- Fiscal and financial systems integrated with Brazilian regulatory infrastructure (SEFAZ)
+- Quantitative finance — factor models, backtesting, systematic strategies
+- AI integration in production SaaS products
 
----
+<br/>
 
-![](https://komarev.com/ghpvc/?username=PietroAlkmin&color=blue)
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+</p>
+
+<br/>
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PietroAlkmin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroAlkmin&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=PietroAlkmin&color=grey&style=flat-square&label=Profile+views" />
+
+<br/>
+
+## Connect
+
+<a href="#">LinkedIn</a> · <a href="#">Email</a>
